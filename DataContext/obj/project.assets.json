@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "AccountContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AccountContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AccountContext.dll": {}
+        }
+      },
+      "BookContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BookContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookContext.dll": {}
+        }
+      },
+      "LibraryContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LibraryContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryContext.dll": {}
+        }
+      },
+      "PersonContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PersonContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonContext.dll": {}
+        }
+      },
+      "SharedContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/SharedContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedContext.dll": {}
+        }
+      },
+      "StudentContext/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/StudentContext.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentContext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountContext/1.0.0": {
+      "type": "project",
+      "path": "../AccountContext/AccountContext.csproj",
+      "msbuildProject": "../AccountContext/AccountContext.csproj"
+    },
+    "BookContext/1.0.0": {
+      "type": "project",
+      "path": "../BookContext/BookContext.csproj",
+      "msbuildProject": "../BookContext/BookContext.csproj"
+    },
+    "LibraryContext/1.0.0": {
+      "type": "project",
+      "path": "../LibraryContext/LibraryContext.csproj",
+      "msbuildProject": "../LibraryContext/LibraryContext.csproj"
+    },
+    "PersonContext/1.0.0": {
+      "type": "project",
+      "path": "../PersonContext/PersonContext.csproj",
+      "msbuildProject": "../PersonContext/PersonContext.csproj"
+    },
+    "SharedContext/1.0.0": {
+      "type": "project",
+      "path": "../SharedContext/SharedContext.csproj",
+      "msbuildProject": "../SharedContext/SharedContext.csproj"
+    },
+    "StudentContext/1.0.0": {
+      "type": "project",
+      "path": "../StudentContext/StudentContext.csproj",
+      "msbuildProject": "../StudentContext/StudentContext.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "AccountContext >= 1.0.0",
+      "BookContext >= 1.0.0",
+      "LibraryContext >= 1.0.0",
+      "PersonContext >= 1.0.0",
+      "SharedContext >= 1.0.0",
+      "StudentContext >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abilo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dev\\Gunnar\\DataContext\\DataContext.csproj",
+      "projectName": "DataContext",
+      "projectPath": "C:\\dev\\Gunnar\\DataContext\\DataContext.csproj",
+      "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\Gunnar\\DataContext\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\dev\\Gunnar\\AccountContext\\AccountContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\AccountContext\\AccountContext.csproj"
+            },
+            "C:\\dev\\Gunnar\\BookContext\\BookContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\BookContext\\BookContext.csproj"
+            },
+            "C:\\dev\\Gunnar\\LibraryContext\\LibraryContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\LibraryContext\\LibraryContext.csproj"
+            },
+            "C:\\dev\\Gunnar\\PersonContext\\PersonContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\PersonContext\\PersonContext.csproj"
+            },
+            "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj"
+            },
+            "C:\\dev\\Gunnar\\StudentContext\\StudentContext.csproj": {
+              "projectPath": "C:\\dev\\Gunnar\\StudentContext\\StudentContext.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

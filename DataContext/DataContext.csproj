@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="AccountContext\Mapping\" />
+    <Folder Include="AccountContext\UseCases\Create\" />
+    <Folder Include="AccountContext\UseCases\Delete\" />
+    <Folder Include="AccountContext\UseCases\Details\" />
+    <Folder Include="AccountContext\UseCases\Modify\" />
+    <Folder Include="BookContext\Mapping\" />
+    <Folder Include="BookContext\UseCases\Create\" />
+    <Folder Include="BookContext\UseCases\Delete\" />
+    <Folder Include="BookContext\UseCases\Details\" />
+    <Folder Include="BookContext\UseCases\Modify\" />
+    <Folder Include="LibraryContext\Mapping\" />
+    <Folder Include="LibraryContext\UseCases\Create\" />
+    <Folder Include="LibraryContext\UseCases\Delete\" />
+    <Folder Include="LibraryContext\UseCases\Details\" />
+    <Folder Include="LibraryContext\UseCases\Modify\" />
+    <Folder Include="PersonContext\Mapping\" />
+    <Folder Include="PersonContext\UseCases\Create\" />
+    <Folder Include="PersonContext\UseCases\Delete\" />
+    <Folder Include="PersonContext\UseCases\Details\" />
+    <Folder Include="PersonContext\UseCases\Modify\" />
+    <Folder Include="StudentContext\Mapping\" />
+    <Folder Include="StudentContext\UseCases\Create\" />
+    <Folder Include="StudentContext\UseCases\Delete\" />
+    <Folder Include="StudentContext\UseCases\Details\" />
+    <Folder Include="StudentContext\UseCases\Modify\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AccountContext\AccountContext.csproj" />
+    <ProjectReference Include="..\BookContext\BookContext.csproj" />
+    <ProjectReference Include="..\LibraryContext\LibraryContext.csproj" />
+    <ProjectReference Include="..\PersonContext\PersonContext.csproj" />
+    <ProjectReference Include="..\SharedContext\SharedContext.csproj" />
+    <ProjectReference Include="..\StudentContext\StudentContext.csproj" />
+  </ItemGroup>
+
+</Project>

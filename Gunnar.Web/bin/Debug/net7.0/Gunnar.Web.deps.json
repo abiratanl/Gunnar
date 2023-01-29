@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Gunnar.Web/1.0.0": {
+        "runtime": {
+          "Gunnar.Web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gunnar.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
