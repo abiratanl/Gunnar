@@ -10,11 +10,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\AccountContext\\AccountContext.csproj",
         "projectName": "AccountContext",
         "projectPath": "C:\\dev\\Gunnar\\AccountContext\\AccountContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\AccountContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -65,11 +70,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\BookContext\\BookContext.csproj",
         "projectName": "BookContext",
         "projectPath": "C:\\dev\\Gunnar\\BookContext\\BookContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\BookContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,12 +86,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj": {
+                "projectPath": "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -110,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -120,11 +134,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\DataContext\\DataContext.csproj",
         "projectName": "DataContext",
         "projectPath": "C:\\dev\\Gunnar\\DataContext\\DataContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\DataContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,6 +150,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -184,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -194,11 +213,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\LibraryContext\\LibraryContext.csproj",
         "projectName": "LibraryContext",
         "projectPath": "C:\\dev\\Gunnar\\LibraryContext\\LibraryContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\LibraryContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -206,6 +229,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -239,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -249,11 +273,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\PersonContext\\PersonContext.csproj",
         "projectName": "PersonContext",
         "projectPath": "C:\\dev\\Gunnar\\PersonContext\\PersonContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\PersonContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -261,6 +289,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -294,7 +323,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -304,11 +333,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj",
         "projectName": "SharedContext",
         "projectPath": "C:\\dev\\Gunnar\\SharedContext\\SharedContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\SharedContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -316,6 +349,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -333,6 +367,24 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[109.0.0-preview.1, )"
+            },
+            "SecureIdentity": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -349,7 +401,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -359,11 +411,15 @@
         "projectUniqueName": "C:\\dev\\Gunnar\\StudentContext\\StudentContext.csproj",
         "projectName": "StudentContext",
         "projectPath": "C:\\dev\\Gunnar\\StudentContext\\StudentContext.csproj",
-        "packagesPath": "C:\\Users\\abilo\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\abira\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\Gunnar\\StudentContext\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\abilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -371,6 +427,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -404,7 +461,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

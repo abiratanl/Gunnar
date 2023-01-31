@@ -1,17 +1,16 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="UseCases\Create\Contracts\" />
-    <Folder Include="UseCases\Delete\Contracts\" />
-    <Folder Include="UseCases\Details\Contracts\" />
-    <Folder Include="UseCases\Modify\Contracts\" />
-  </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />
+      <PackageReference Include="RestSharp" Version="109.0.0-preview.1" />
+      <PackageReference Include="SecureIdentity" Version="1.0.4" />
+      <PackageReference Include="SendGrid" Version="9.28.1" />
+    </ItemGroup>
 
 </Project>

@@ -1,0 +1,12 @@
+C:\dev\Gunnar\PersonContext\bin\Debug\net7.0\PersonContext.deps.json
+C:\dev\Gunnar\PersonContext\bin\Debug\net7.0\PersonContext.dll
+C:\dev\Gunnar\PersonContext\bin\Debug\net7.0\PersonContext.pdb
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.AssemblyInfo.cs
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.dll
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\refint\PersonContext.dll
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\PersonContext.pdb
+C:\dev\Gunnar\PersonContext\obj\Debug\net7.0\ref\PersonContext.dll

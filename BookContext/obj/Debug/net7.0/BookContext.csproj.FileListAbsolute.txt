@@ -1,0 +1,12 @@
+C:\dev\Gunnar\BookContext\bin\Debug\net7.0\BookContext.deps.json
+C:\dev\Gunnar\BookContext\bin\Debug\net7.0\BookContext.dll
+C:\dev\Gunnar\BookContext\bin\Debug\net7.0\BookContext.pdb
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.AssemblyInfo.cs
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.dll
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\refint\BookContext.dll
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\BookContext.pdb
+C:\dev\Gunnar\BookContext\obj\Debug\net7.0\ref\BookContext.dll

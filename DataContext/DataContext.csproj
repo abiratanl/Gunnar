@@ -27,6 +27,7 @@
     <Folder Include="PersonContext\UseCases\Delete\" />
     <Folder Include="PersonContext\UseCases\Details\" />
     <Folder Include="PersonContext\UseCases\Modify\" />
+    <Folder Include="SharedContext\Contracts" />
     <Folder Include="StudentContext\Mapping\" />
     <Folder Include="StudentContext\UseCases\Create\" />
     <Folder Include="StudentContext\UseCases\Delete\" />

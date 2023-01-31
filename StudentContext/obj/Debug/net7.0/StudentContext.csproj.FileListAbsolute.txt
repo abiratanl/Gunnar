@@ -1,0 +1,12 @@
+C:\dev\Gunnar\StudentContext\bin\Debug\net7.0\StudentContext.deps.json
+C:\dev\Gunnar\StudentContext\bin\Debug\net7.0\StudentContext.dll
+C:\dev\Gunnar\StudentContext\bin\Debug\net7.0\StudentContext.pdb
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.AssemblyInfo.cs
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.dll
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\refint\StudentContext.dll
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\StudentContext.pdb
+C:\dev\Gunnar\StudentContext\obj\Debug\net7.0\ref\StudentContext.dll

@@ -1,0 +1,12 @@
+C:\dev\Gunnar\LibraryContext\bin\Debug\net7.0\LibraryContext.deps.json
+C:\dev\Gunnar\LibraryContext\bin\Debug\net7.0\LibraryContext.dll
+C:\dev\Gunnar\LibraryContext\bin\Debug\net7.0\LibraryContext.pdb
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.AssemblyInfo.cs
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.dll
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\refint\LibraryContext.dll
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\LibraryContext.pdb
+C:\dev\Gunnar\LibraryContext\obj\Debug\net7.0\ref\LibraryContext.dll

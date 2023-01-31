@@ -1,0 +1,12 @@
+C:\dev\Gunnar\SharedContext\bin\Debug\net7.0\SharedContext.deps.json
+C:\dev\Gunnar\SharedContext\bin\Debug\net7.0\SharedContext.dll
+C:\dev\Gunnar\SharedContext\bin\Debug\net7.0\SharedContext.pdb
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.AssemblyInfo.cs
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.dll
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\refint\SharedContext.dll
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\SharedContext.pdb
+C:\dev\Gunnar\SharedContext\obj\Debug\net7.0\ref\SharedContext.dll

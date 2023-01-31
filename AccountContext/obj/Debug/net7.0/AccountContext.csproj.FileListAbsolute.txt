@@ -1,0 +1,12 @@
+C:\dev\Gunnar\AccountContext\bin\Debug\net7.0\AccountContext.deps.json
+C:\dev\Gunnar\AccountContext\bin\Debug\net7.0\AccountContext.dll
+C:\dev\Gunnar\AccountContext\bin\Debug\net7.0\AccountContext.pdb
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.csproj.AssemblyReference.cache
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.AssemblyInfoInputs.cache
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.AssemblyInfo.cs
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.csproj.CoreCompileInputs.cache
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.dll
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\refint\AccountContext.dll
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\AccountContext.pdb
+C:\dev\Gunnar\AccountContext\obj\Debug\net7.0\ref\AccountContext.dll
